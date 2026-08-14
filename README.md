@@ -1,5 +1,5 @@
 # 🏢 Enterprise Knowledge Assistant (RAG System)
-
+![Enterprise RAG Assistant Screenshot](screenshots/demo.png)
 A production-style Retrieval-Augmented Generation (RAG) system that lets users ask natural language questions about internal company documents and get accurate, cited answers — instead of manually searching through long PDFs.
 
 Built end-to-end: document ingestion → hybrid retrieval → reranking → LLM generation → REST API → containerized deployment.
