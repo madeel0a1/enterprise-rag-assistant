@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-text-splitters
+langchain-classic
+pypdf
+faiss-cpu
+sentence-transformers
+docx2txt
+openpyxl
+unstructured[pdf]
+rank_bm25
+beautifulsoup4
+google-generativeai
+python-multipart
+pydantic
